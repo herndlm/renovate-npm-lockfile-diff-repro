@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "local>herndlm/renovate-config"
+    "config:base"
   ],
   "rangeStrategy": "update-lockfile"
 }
